@@ -1,0 +1,5 @@
+name: DiscordWebhookEmbed
+main: me.zackaryh8.discordwh.Main
+description: Send embeds to Dsicord when actions occur on the servers
+version: 1.0
+api-version: 1.16
