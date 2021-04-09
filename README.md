@@ -1,4 +1,4 @@
-#discord-wh
+# discord-wh
 
 I created this because I wanted to let people on my Minecraft server see when the server had started and what was happening in the server, without them being in the game. So with no knowledge of Java I jumped straight into it.
 
