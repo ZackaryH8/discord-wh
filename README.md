@@ -6,9 +6,7 @@ You should be able to use this plugin should you wish, simply grab the latest ve
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/40175773/114211856-1053d280-9959-11eb-9a87-d5d097d4e15d.png)
-
-![image](https://user-images.githubusercontent.com/40175773/114211916-21044880-9959-11eb-9d97-365316fd1663.png)
-![image](https://user-images.githubusercontent.com/40175773/114211943-2cf00a80-9959-11eb-80d6-eb6be535c8b5.png)
+![image](https://user-images.githubusercontent.com/40175773/114234467-b5c96f00-9976-11eb-921d-f368af7fa5d7.png)
 
 
 Contributions are, as always welcome and appreciated.
