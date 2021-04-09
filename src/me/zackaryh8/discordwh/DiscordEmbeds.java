@@ -1,6 +1,6 @@
 package me.zackaryh8.discordwh;
 
-import java.awt.*;
+import java.awt.Color;
 import java.io.IOException;
 
 
