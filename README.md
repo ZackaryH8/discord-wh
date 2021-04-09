@@ -4,5 +4,12 @@ I created this because I wanted to let people on my Minecraft server see when th
 
 You should be able to use this plugin should you wish, simply grab the latest version [here](https://github.com/ZackaryH8/discord-wh/releases)
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/40175773/114211856-1053d280-9959-11eb-9a87-d5d097d4e15d.png)
+
+![image](https://user-images.githubusercontent.com/40175773/114211916-21044880-9959-11eb-9d97-365316fd1663.png)
+![image](https://user-images.githubusercontent.com/40175773/114211943-2cf00a80-9959-11eb-80d6-eb6be535c8b5.png)
+
+
 Contributions are, as always welcome and appreciated.
 
